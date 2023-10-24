@@ -10,22 +10,18 @@
 
 - Very small "one day made" app.
 - The stopwatch measures time in seconds and has an archive with previous time results.
-- 
+- I created it to master vanilla JavaScript and building mini-logic apps.
 
 #### Technology used:
 - HTML, CSS, JS
 - SCSS
-- **Framework:** Bootstrap
 
 <hr/>
 
 ## What I Learned
 
-- Using most important **SEO tags** in modern websites.
-- Using SCSS in a bigger project with many classes.
-- Using **rows** and **columns** in Bootstrap.
-- Creating hero-images and sliders of images.
-- Creating cards with Bootstrap Library and style them.
+- Using vanilla JavaScript in building mini-logic apps.
+- Creating small modal with instruction how to use app.
 
 <hr/>
 
