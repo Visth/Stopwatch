@@ -1,4 +1,4 @@
-# Chimera Dynamics
+# Stopwatch
 
 <p align="center">
     <img src="./img/screenshot.png" width="80%" height="400px"></img>
